@@ -1,4 +1,4 @@
-# [shell](https://github.com/shuchun/shell)   
+# [shell](https://github.com/liangwei1988/shell)   
 
 
 > 注意：使用前需要根据自己的tfs服务器部署与配置修改脚本的tfs目录位置以及NS的ip与端口    
